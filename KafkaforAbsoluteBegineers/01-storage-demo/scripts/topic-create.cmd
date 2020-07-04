@@ -1,0 +1,1 @@
+C:\Users\sukul\Desktop\udemycourses\KafkaforAbsoluteBegineers\KafkaLearning\confluent-53\bin\windows\kafka-topics.bat --create --zookeeper localhost:2181 --topic Amazon --partitions 5 --replication-factor 2 --config segment.bytes=1000000

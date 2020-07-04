@@ -1,0 +1,1 @@
+C:\Users\sukul\Desktop\udemycourses\KafkaforAbsoluteBegineers\KafkaLearning\confluent-53\bin\windows\kafka-topics.bat --describe  --zookeeper localhost:2181 --topic Amazon

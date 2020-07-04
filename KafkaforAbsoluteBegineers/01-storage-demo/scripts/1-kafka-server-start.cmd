@@ -1,0 +1,1 @@
+C:\Users\sukul\Desktop\udemycourses\KafkaforAbsoluteBegineers\KafkaLearning\confluent-53\bin\windows\kafka-server-start.bat C:\Users\sukul\Desktop\udemycourses\KafkaforAbsoluteBegineers\KafkaLearning\confluent-53\etc\kafka\server-1.properties
